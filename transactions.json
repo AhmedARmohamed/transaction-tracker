@@ -1,0 +1,974 @@
+[
+    {
+        "id": "c08150a2-a8e3-446d-b65a-851d3b76a92b",
+        "date": "30/07/2021",
+        "type": "FPI",
+        "description": "PIZZA HUT",
+        "debit": null,
+        "credit": 3748.63,
+        "balance": "4106.20"
+    },
+    {
+        "id": "91160aa7-980b-4cdb-809c-7a0848f5b2e9",
+        "date": "29/07/2021",
+        "type": "CPT",
+        "description": "PHARMACY 074",
+        "debit": 20,
+        "credit": null,
+        "balance": "357.57"
+    },
+    {
+        "id": "4508a2e1-1620-472c-b4fd-dbd0639d8b5d",
+        "date": "28/07/2021",
+        "type": "FPI",
+        "description": "BURGER KING",
+        "debit": null,
+        "credit": 32.44,
+        "balance": "377.57"
+    },
+    {
+        "id": "115527a6-c919-4176-a96d-5d23ab720ecf",
+        "date": "28/07/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 5.28,
+        "credit": null,
+        "balance": "345.13"
+    },
+    {
+        "id": "85329442-5c94-4699-9df5-b14cc092e604",
+        "date": "27/07/2021",
+        "type": "DEB",
+        "description": "K TELECOMS",
+        "debit": 10,
+        "credit": null,
+        "balance": "350.41"
+    },
+    {
+        "id": "467b300c-df22-4351-95ed-e47bf7937083",
+        "date": "26/07/2021",
+        "type": "CPT",
+        "description": "PHARMACY 074",
+        "debit": 20,
+        "credit": null,
+        "balance": "360.41"
+    },
+    {
+        "id": "f44bf7d3-ccbd-4da6-9926-8b4e135ecedf",
+        "date": "23/07/2021",
+        "type": "DEB",
+        "description": "Spotify UK",
+        "debit": 9.99,
+        "credit": null,
+        "balance": "380.41"
+    },
+    {
+        "id": "3f36bdd7-d3f0-48ce-84e6-0f90a4ed7cc0",
+        "date": "19/07/2021",
+        "type": "CPT",
+        "description": "ATM",
+        "debit": 20,
+        "credit": null,
+        "balance": "390.40"
+    },
+    {
+        "id": "99874568-42ed-468f-8533-9581f9aa2e34",
+        "date": "16/07/2021",
+        "type": "DEB",
+        "description": "KEBABISH",
+        "debit": 1610.37,
+        "credit": null,
+        "balance": "410.40"
+    },
+    {
+        "id": "a4b8ef46-cebc-4afa-96aa-5c6eeb433256",
+        "date": "13/07/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 10.99,
+        "credit": null,
+        "balance": "2020.77"
+    },
+    {
+        "id": "2e024178-52a7-4b40-b1f7-f8f194d799f0",
+        "date": "12/07/2021",
+        "type": "DDX",
+        "description": "SKY DIGITAL",
+        "debit": 21.86,
+        "credit": null,
+        "balance": "2031.76"
+    },
+    {
+        "id": "8e630439-a490-48ec-b109-b8555cfb1861",
+        "date": "12/07/2021",
+        "type": "DEB",
+        "description": "TEAMSPORT SHEFFIEL",
+        "debit": 15.98,
+        "credit": null,
+        "balance": "2053.62"
+    },
+    {
+        "id": "8a99a3d5-5f38-4745-84d9-ae0a29ece83f",
+        "date": "12/07/2021",
+        "type": "DEB",
+        "description": "TEAMSPORT SHEFFIEL",
+        "debit": 1.75,
+        "credit": null,
+        "balance": "2069.60"
+    },
+    {
+        "id": "5a9de341-879f-4b8c-992a-196ea5ed10b8",
+        "date": "12/07/2021",
+        "type": "DEB",
+        "description": "NON-GBP PURCH FEE",
+        "debit": 0.5,
+        "credit": null,
+        "balance": "2071.35"
+    },
+    {
+        "id": "7b3e2d3e-1551-4a98-ba51-3fc53ae4fd6f",
+        "date": "12/07/2021",
+        "type": "DEB",
+        "description": "NON-GBP TRANS FEE",
+        "debit": 1.03,
+        "credit": null,
+        "balance": "2071.85"
+    },
+    {
+        "id": "52427804-1852-4c2e-9e23-45f83bd7c924",
+        "date": "12/07/2021",
+        "type": "DEB",
+        "description": "NATIONAL GEOGRAPHIC YEARLY",
+        "debit": 34.46,
+        "credit": null,
+        "balance": "2072.88"
+    },
+    {
+        "id": "8b944df6-fe7e-4d6a-9434-d61111166e77",
+        "date": "05/07/2021",
+        "type": "DEB",
+        "description": "K TELECOMS",
+        "debit": 10,
+        "credit": null,
+        "balance": "2107.34"
+    },
+    {
+        "id": "fc5b1664-6fce-4d82-ace1-fea6c7419c5d",
+        "date": "05/07/2021",
+        "type": "DDX",
+        "description": "MIKE",
+        "debit": 200,
+        "credit": null,
+        "balance": "2117.34"
+    },
+    {
+        "id": "d093653c-2fce-4761-a2ae-84632276e56d",
+        "date": "05/07/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 29.82,
+        "credit": null,
+        "balance": "2317.34"
+    },
+    {
+        "id": "7bdfc6b2-00af-4209-9d5c-7b1468c52d27",
+        "date": "02/07/2021",
+        "type": "DEB",
+        "description": "STEAM",
+        "debit": 4.6,
+        "credit": null,
+        "balance": "2347.16"
+    },
+    {
+        "id": "74d833b0-24cf-4a89-b9d1-db817d07cea9",
+        "date": "01/07/2021",
+        "type": "TFR",
+        "description": "MCDONALDS",
+        "debit": 2500,
+        "credit": null,
+        "balance": "2351.76"
+    },
+    {
+        "id": "71492208-46ba-45b6-9975-52acf6869a16",
+        "date": "01/07/2021",
+        "type": "DDX",
+        "description": "GYM",
+        "debit": 30,
+        "credit": null,
+        "balance": "4851.76"
+    },
+    {
+        "id": "d55a53d5-4793-4d1b-899f-d08dbd968e6d",
+        "date": "30/06/2021",
+        "type": "FPI",
+        "description": "PIZZA HUT",
+        "debit": null,
+        "credit": 3639.09,
+        "balance": "4881.76"
+    },
+    {
+        "id": "c49ba08f-19cf-4834-8e07-d4d13655c82c",
+        "date": "28/06/2021",
+        "type": "DEB",
+        "description": "K TELECOMS",
+        "debit": 10,
+        "credit": null,
+        "balance": "1242.67"
+    },
+    {
+        "id": "d74b1ce7-a882-4f7d-b310-3f28903c0452",
+        "date": "28/06/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 5.2,
+        "credit": null,
+        "balance": "1252.67"
+    },
+    {
+        "id": "df0ea05f-fc18-449d-8ab3-8c8934a73e49",
+        "date": "28/06/2021",
+        "type": "FPI",
+        "description": "K DONALD",
+        "debit": null,
+        "credit": 1010,
+        "balance": "1257.87"
+    },
+    {
+        "id": "4e9a4c45-7a05-4c45-9099-c4cb5cc8ebfa",
+        "date": "28/06/2021",
+        "type": "TFR",
+        "description": "MCDONALDS   26JUN21",
+        "debit": 1000,
+        "credit": null,
+        "balance": "247.87"
+    },
+    {
+        "id": "49d4fc3b-d639-4db6-a988-8ef51e44954f",
+        "date": "25/06/2021",
+        "type": "TFR",
+        "description": "MCDONALDS",
+        "debit": null,
+        "credit": 1000,
+        "balance": "1247.87"
+    },
+    {
+        "id": "d62ab979-7a4e-4fc9-b721-9a1d328eaf79",
+        "date": "23/06/2021",
+        "type": "DEB",
+        "description": "Spotify P15A330350",
+        "debit": 9.99,
+        "credit": null,
+        "balance": "247.87"
+    },
+    {
+        "id": "7aedd439-1e8f-4927-975a-d2fe5e2779ec",
+        "date": "17/06/2021",
+        "type": "DEB",
+        "description": "KEBABISH",
+        "debit": 2301.25,
+        "credit": null,
+        "balance": "257.86"
+    },
+    {
+        "id": "bf7989f7-6e53-49be-88e6-18107b91a022",
+        "date": "11/06/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 10.99,
+        "credit": null,
+        "balance": "2559.11"
+    },
+    {
+        "id": "bf9550ff-bffc-4afb-8ad4-38eb2bd86cea",
+        "date": "10/06/2021",
+        "type": "DEB",
+        "description": "KEBABISH",
+        "debit": 621.88,
+        "credit": null,
+        "balance": "2570.10"
+    },
+    {
+        "id": "3438f22f-f4cc-4aa4-8d6d-b451e4a7b682",
+        "date": "10/06/2021",
+        "type": "DDX",
+        "description": "SKY DIGITAL",
+        "debit": 21.86,
+        "credit": null,
+        "balance": "3191.98"
+    },
+    {
+        "id": "52b6eb3f-de85-4461-ab14-08df684587d9",
+        "date": "09/06/2021",
+        "type": "TFR",
+        "description": "MCDONALDS",
+        "debit": null,
+        "credit": 2500,
+        "balance": "3213.84"
+    },
+    {
+        "id": "9b196922-89bf-46a4-9413-8f8cf520c2d2",
+        "date": "07/06/2021",
+        "type": "DEB",
+        "description": "CHAI   CO",
+        "debit": 8,
+        "credit": null,
+        "balance": "713.84"
+    },
+    {
+        "id": "74ceacf2-b22f-41c3-8df3-9ae6c94cde4b",
+        "date": "07/06/2021",
+        "type": "DDX",
+        "description": "MIKE",
+        "debit": 200,
+        "credit": null,
+        "balance": "721.84"
+    },
+    {
+        "id": "d9003c98-472a-4727-9bea-be139ac1e29c",
+        "date": "07/06/2021",
+        "type": "DEB",
+        "description": "K TELECOMS",
+        "debit": 10,
+        "credit": null,
+        "balance": "921.84"
+    },
+    {
+        "id": "d01ecb62-fac0-41af-8d76-5aeb798bc95a",
+        "date": "02/06/2021",
+        "type": "DEB",
+        "description": "BUS",
+        "debit": 4.6,
+        "credit": null,
+        "balance": "931.84"
+    },
+    {
+        "id": "353edb3f-a245-4665-83fa-67d2159f73d1",
+        "date": "01/06/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 253.98,
+        "credit": null,
+        "balance": "936.44"
+    },
+    {
+        "id": "80da614b-f698-429d-b77d-e632ef636f57",
+        "date": "01/06/2021",
+        "type": "DDX",
+        "description": "GYM",
+        "debit": 30,
+        "credit": null,
+        "balance": "1190.42"
+    },
+    {
+        "id": "951f74de-1ecc-44a3-bf19-be9d53ae1598",
+        "date": "01/06/2021",
+        "type": "FPO",
+        "description": "HOLIDAY FUND",
+        "debit": 500,
+        "credit": null,
+        "balance": "1220.42"
+    },
+    {
+        "id": "9d10e8f7-e899-4291-9a67-142f4131e068",
+        "date": "01/06/2021",
+        "type": "TFR",
+        "description": "MCDONALDS   31MAY21",
+        "debit": 2300,
+        "credit": null,
+        "balance": "1720.42"
+    },
+    {
+        "id": "f56d94a3-bec8-40b3-a264-33a4398cdc4e",
+        "date": "28/05/2021",
+        "type": "FPI",
+        "description": "PIZZA HUT",
+        "debit": null,
+        "credit": 3615.89,
+        "balance": "4020.42"
+    },
+    {
+        "id": "f07e0bf1-72d2-4b95-84d7-7fe88d793dfa",
+        "date": "26/05/2021",
+        "type": "TFR",
+        "description": "MCDONALDS",
+        "debit": null,
+        "credit": 300,
+        "balance": "404.53"
+    },
+    {
+        "id": "a2fac9ed-8b68-440a-8473-edc0cdfecddb",
+        "date": "26/05/2021",
+        "type": "FPO",
+        "description": "SAVINGS",
+        "debit": 250,
+        "credit": null,
+        "balance": "104.53"
+    },
+    {
+        "id": "0994fd13-ebc5-4831-a094-989d8e988141",
+        "date": "26/05/2021",
+        "type": "FPO",
+        "description": "SAVINGS",
+        "debit": 200,
+        "credit": null,
+        "balance": "354.53"
+    },
+    {
+        "id": "3f875220-2308-43dd-898e-68c398830c01",
+        "date": "26/05/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 5.12,
+        "credit": null,
+        "balance": "554.53"
+    },
+    {
+        "id": "8b93a633-d62f-4b44-b534-c508ddc1f479",
+        "date": "24/05/2021",
+        "type": "DEB",
+        "description": "TFL TRAVEL CH",
+        "debit": 4.8,
+        "credit": null,
+        "balance": "559.65"
+    },
+    {
+        "id": "591bee2c-531e-4e2e-9f6d-8dfae1f01bd0",
+        "date": "24/05/2021",
+        "type": "DEB",
+        "description": "Spotify P14EFA5D26",
+        "debit": 9.99,
+        "credit": null,
+        "balance": "564.45"
+    },
+    {
+        "id": "07b7cb79-8155-4c2e-b553-a8fed009d757",
+        "date": "24/05/2021",
+        "type": "DEB",
+        "description": "TFL TRAVEL CH",
+        "debit": 4.8,
+        "credit": null,
+        "balance": "574.44"
+    },
+    {
+        "id": "90b214fe-4164-4e0e-9b54-53e7347698c5",
+        "date": "24/05/2021",
+        "type": "CPT",
+        "description": "LNK VIRGIN HAYMARK",
+        "debit": 300,
+        "credit": null,
+        "balance": "579.24"
+    },
+    {
+        "id": "408141f6-9ca3-4959-b0d9-15311599aca0",
+        "date": "21/05/2021",
+        "type": "TFR",
+        "description": "MCDONALDS",
+        "debit": null,
+        "credit": 700,
+        "balance": "879.24"
+    },
+    {
+        "id": "4531d4e2-4c3f-40eb-ba6f-bb3376056c97",
+        "date": "17/05/2021",
+        "type": "DEB",
+        "description": "KEBABISH",
+        "debit": 419.43,
+        "credit": null,
+        "balance": "179.24"
+    },
+    {
+        "id": "f5c9ac18-a95a-4e14-9ee2-1da9dd554020",
+        "date": "17/05/2021",
+        "type": "DEB",
+        "description": "COFFIKA",
+        "debit": 2.8,
+        "credit": null,
+        "balance": "598.67"
+    },
+    {
+        "id": "e1fad022-4a4d-46e5-912b-fdead8fb6b08",
+        "date": "17/05/2021",
+        "type": "DEB",
+        "description": "COFFIKA",
+        "debit": 2.8,
+        "credit": null,
+        "balance": "601.47"
+    },
+    {
+        "id": "a7100ab0-311e-4a99-9b49-95b48e4dc2e4",
+        "date": "17/05/2021",
+        "type": "TFR",
+        "description": "MCDONALDS   16MAY21",
+        "debit": null,
+        "credit": 300,
+        "balance": "604.27"
+    },
+    {
+        "id": "a7f0320b-3bef-40d9-bdad-a291f2a30438",
+        "date": "17/05/2021",
+        "type": "CPT",
+        "description": "LNK TASTE OF ARABI",
+        "debit": 20,
+        "credit": null,
+        "balance": "304.27"
+    },
+    {
+        "id": "3dbeca49-6162-44b7-934d-690027423c07",
+        "date": "17/05/2021",
+        "type": "DEB",
+        "description": "TRAIN TICKETS",
+        "debit": 41.42,
+        "credit": null,
+        "balance": "324.27"
+    },
+    {
+        "id": "4019b73a-3ad5-4ccf-9a78-781e3c3dff01",
+        "date": "13/05/2021",
+        "type": "DEB",
+        "description": "FOOTASYLUM",
+        "debit": 199.96,
+        "credit": null,
+        "balance": "365.69"
+    },
+    {
+        "id": "0f814bf1-9087-47e3-8d3c-3f403b0f9f66",
+        "date": "13/05/2021",
+        "type": "DEB",
+        "description": "DEBENHAMS",
+        "debit": 17.5,
+        "credit": null,
+        "balance": "565.65"
+    },
+    {
+        "id": "f0e0a9c7-fc67-43e1-8145-c3520fd17839",
+        "date": "12/05/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 10.99,
+        "credit": null,
+        "balance": "583.15"
+    },
+    {
+        "id": "98b9d724-7530-4551-8138-9f71e4d4442a",
+        "date": "11/05/2021",
+        "type": "DDX",
+        "description": "SKY DIGITAL",
+        "debit": 21.86,
+        "credit": null,
+        "balance": "594.14"
+    },
+    {
+        "id": "d3b2b426-00dc-48f7-bb55-7b6ae01dd3d8",
+        "date": "10/05/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 40.65,
+        "credit": null,
+        "balance": "616.00"
+    },
+    {
+        "id": "e5a9c0eb-73d2-46e7-af24-cb3306c07bcc",
+        "date": "05/05/2021",
+        "type": "DEB",
+        "description": "K TELECOMS",
+        "debit": 10,
+        "credit": null,
+        "balance": "656.65"
+    },
+    {
+        "id": "6e151b38-31f8-4ffa-a39e-b4f42cebf694",
+        "date": "05/05/2021",
+        "type": "DDX",
+        "description": "MIKE",
+        "debit": 200,
+        "credit": null,
+        "balance": "666.65"
+    },
+    {
+        "id": "46fa4139-ae6d-41fb-82d3-a61ead17e6c3",
+        "date": "04/05/2021",
+        "type": "DEB",
+        "description": "STEAM",
+        "debit": 4.6,
+        "credit": null,
+        "balance": "866.65"
+    },
+    {
+        "id": "e5702819-c963-45ac-9c70-4e8537f7244c",
+        "date": "04/05/2021",
+        "type": "DEB",
+        "description": "INSURANCE",
+        "debit": 209.86,
+        "credit": null,
+        "balance": "871.25"
+    },
+    {
+        "id": "081b8916-ac51-459f-92b4-a4926c6eff42",
+        "date": "04/05/2021",
+        "type": "DEB",
+        "description": "FIRST SOUTH YORKSH",
+        "debit": 2,
+        "credit": null,
+        "balance": "1081.11"
+    },
+    {
+        "id": "4bc7b51a-85e5-4da7-95a4-31701c619ade",
+        "date": "04/05/2021",
+        "type": "DEB",
+        "description": "AMAZON PRIME*MK6PQ",
+        "debit": 79,
+        "credit": null,
+        "balance": "1083.11"
+    },
+    {
+        "id": "b44964f7-307e-4440-88d2-6284f143da96",
+        "date": "04/05/2021",
+        "type": "FPO",
+        "description": "HOLIDAY FUND",
+        "debit": 250,
+        "credit": null,
+        "balance": "1162.11"
+    },
+    {
+        "id": "541daf2d-7d51-4fbd-842c-4e337c22bef7",
+        "date": "04/05/2021",
+        "type": "FPO",
+        "description": "CHAIRTY FUND",
+        "debit": 500,
+        "credit": null,
+        "balance": "1412.11"
+    },
+    {
+        "id": "1948b4a9-6b4d-4149-adf9-47c0d9ce0ea7",
+        "date": "30/04/2021",
+        "type": "TFR",
+        "description": "MCDONALDS",
+        "debit": 2000,
+        "credit": null,
+        "balance": "1912.11"
+    },
+    {
+        "id": "e90f61d8-b869-434a-a27c-235683ca7dc0",
+        "date": "29/04/2021",
+        "type": "FPI",
+        "description": "PIZZA HUT",
+        "debit": null,
+        "credit": 3619.44,
+        "balance": "3912.11"
+    },
+    {
+        "id": "c952475a-0824-4bde-8f7c-1b7d551d24ae",
+        "date": "28/04/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 5.23,
+        "credit": null,
+        "balance": "292.67"
+    },
+    {
+        "id": "67183252-a95f-4786-adaa-487799c4e9ad",
+        "date": "26/04/2021",
+        "type": "DEB",
+        "description": "FIRST SOUTH YORKSH",
+        "debit": 2,
+        "credit": null,
+        "balance": "297.90"
+    },
+    {
+        "id": "d804d1b5-6199-473e-8be8-5646a9e0b6f7",
+        "date": "26/04/2021",
+        "type": "DEB",
+        "description": "FIRST SOUTH YORKSH",
+        "debit": 2,
+        "credit": null,
+        "balance": "299.90"
+    },
+    {
+        "id": "b33925d4-e232-410c-8039-142823de7bab",
+        "date": "23/04/2021",
+        "type": "DEB",
+        "description": "Spotify P14793D121",
+        "debit": 9.99,
+        "credit": null,
+        "balance": "301.90"
+    },
+    {
+        "id": "d45cc14a-afa2-44cc-aee4-a45aa22a09b2",
+        "date": "21/04/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 14.58,
+        "credit": null,
+        "balance": "311.89"
+    },
+    {
+        "id": "dd44d3a2-f6c1-4a6c-9958-4a354f426bf2",
+        "date": "19/04/2021",
+        "type": "DEB",
+        "description": "KEBABISH",
+        "debit": 850.53,
+        "credit": null,
+        "balance": "326.47"
+    },
+    {
+        "id": "3160a0cc-d627-4877-a10c-26e118bc1dac",
+        "date": "13/04/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 10.99,
+        "credit": null,
+        "balance": "1177.00"
+    },
+    {
+        "id": "1b04f4a4-ce9f-4500-ac3c-13e2873e4b7a",
+        "date": "12/04/2021",
+        "type": "DEB",
+        "description": "RAC",
+        "debit": 224.99,
+        "credit": null,
+        "balance": "1187.99"
+    },
+    {
+        "id": "b91fbd6e-d8c2-4ce0-9a72-4c48bc6d6b07",
+        "date": "12/04/2021",
+        "type": "DDX",
+        "description": "SKY DIGITAL",
+        "debit": 21.56,
+        "credit": null,
+        "balance": "1412.98"
+    },
+    {
+        "id": "d61993ea-8530-46a9-b4ca-843026ddb53f",
+        "date": "12/04/2021",
+        "type": "DEB",
+        "description": "TESCO STORE 3184",
+        "debit": 8.65,
+        "credit": null,
+        "balance": "1434.54"
+    },
+    {
+        "id": "c37a6805-6a77-4892-bb40-f08a061501c0",
+        "date": "06/04/2021",
+        "type": "FPI",
+        "description": "BURQOS SAMA",
+        "debit": null,
+        "credit": 315,
+        "balance": "1443.19i"
+    },
+    {
+        "id": "b355c95e-235b-4c2e-b2e1-5af2ade7e86d",
+        "date": "06/04/2021",
+        "type": "DDX",
+        "description": "DARTS",
+        "debit": 200,
+        "credit": null,
+        "balance": "1128.19"
+    },
+    {
+        "id": "48d7a869-3be7-45ef-9180-46b4207df45f",
+        "date": "06/04/2021",
+        "type": "DEB",
+        "description": "K TELECOMS",
+        "debit": 10,
+        "credit": null,
+        "balance": "1328.19"
+    },
+    {
+        "id": "6ccaef5b-9c67-4575-a6a3-d6cafa7b0dd5",
+        "date": "06/04/2021",
+        "type": "DEB",
+        "description": "QUEENSC-KFC PENIST",
+        "debit": 9.96,
+        "credit": null,
+        "balance": "1338.19"
+    },
+    {
+        "id": "c957c1cd-8f50-4cc5-90e2-c399a51dde89",
+        "date": "06/04/2021",
+        "type": "DEB",
+        "description": "STEAM",
+        "debit": 4.6,
+        "credit": null,
+        "balance": "1348.15"
+    },
+    {
+        "id": "96caf5f4-4803-4332-abfb-99cc7af88964",
+        "date": "31/03/2021",
+        "type": "FPO",
+        "description": "HOLIDAY FUND",
+        "debit": 450,
+        "credit": null,
+        "balance": "1352.75"
+    },
+    {
+        "id": "b47bff76-9e94-44d7-819f-db8c8e4b04bf",
+        "date": "31/03/2021",
+        "type": "TFR",
+        "description": "MCDONALDS",
+        "debit": 2000,
+        "credit": null,
+        "balance": "1802.75i"
+    },
+    {
+        "id": "9902eba9-a480-4c08-8a9f-cb5aec07a91b",
+        "date": "31/03/2021",
+        "type": "FPI",
+        "description": "PIZZA HUT",
+        "debit": null,
+        "credit": 3606.84,
+        "balance": "3802.75"
+    },
+    {
+        "id": "4dfe3f85-7df7-4f8e-baa3-887b5ee41025",
+        "date": "26/03/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 5.27,
+        "credit": null,
+        "balance": "195.91"
+    },
+    {
+        "id": "11d7b6b7-61ee-4710-8482-809f9ed1c098",
+        "date": "23/03/2021",
+        "type": "DEB",
+        "description": "Morrisons",
+        "debit": 2,
+        "credit": null,
+        "balance": "201.18"
+    },
+    {
+        "id": "6ca68f89-db33-4946-abcd-46f7ead98073",
+        "date": "23/03/2021",
+        "type": "DEB",
+        "description": "Spotify UK",
+        "debit": 9.99,
+        "credit": null,
+        "balance": "203.18"
+    },
+    {
+        "id": "b990a000-438c-4699-a99d-5276fff009ad",
+        "date": "22/03/2021",
+        "type": "DEB",
+        "description": "Morrisons",
+        "debit": 9.8,
+        "credit": null,
+        "balance": "213.17"
+    },
+    {
+        "id": "c42c5019-acdc-4ae4-941f-b33fe4a29967",
+        "date": "22/03/2021",
+        "type": "DEB",
+        "description": "Morrisons",
+        "debit": 4.75,
+        "credit": null,
+        "balance": "222.97"
+    },
+    {
+        "id": "e7c5d61c-cb86-485c-8331-f462314948e0",
+        "date": "15/03/2021",
+        "type": "DDX",
+        "description": "SKY DIGITAL",
+        "debit": 21.56,
+        "credit": null,
+        "balance": "227.72"
+    },
+    {
+        "id": "fd112fec-edd7-4308-8a2f-2bacb1123f09",
+        "date": "11/03/2021",
+        "type": "DEB",
+        "description": "Morrisons",
+        "debit": 5,
+        "credit": null,
+        "balance": "249.28"
+    },
+    {
+        "id": "09f26994-acf9-4238-955d-add2dd2f7f0f",
+        "date": "11/03/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 10.99,
+        "credit": null,
+        "balance": "254.28"
+    },
+    {
+        "id": "f085ae32-a623-4755-8035-8d29a31e344d",
+        "date": "11/03/2021",
+        "type": "DDX",
+        "description": "WESTERN UNION",
+        "debit": 5.5,
+        "credit": null,
+        "balance": "265.27"
+    },
+    {
+        "id": "d6b00001-0636-4d48-8a45-f7a13a5b41ab",
+        "date": "10/03/2021",
+        "type": "DDX",
+        "description": "MEDOWHALL",
+        "debit": 5.5,
+        "credit": null,
+        "balance": "270.77"
+    },
+    {
+        "id": "34b43611-bc69-4cde-92a5-63b849c03103",
+        "date": "08/03/2021",
+        "type": "TFR",
+        "description": "MCDONALDS",
+        "debit": 500,
+        "credit": null,
+        "balance": "276.27"
+    },
+    {
+        "id": "0e8d581b-0359-4948-a264-1241b1215060",
+        "date": "05/03/2021",
+        "type": "TFR",
+        "description": "TAX",
+        "debit": 500,
+        "credit": null,
+        "balance": "776.27"
+    },
+    {
+        "id": "3b7343e1-59e4-41c6-96cd-89b272368b20",
+        "date": "05/03/2021",
+        "type": "DEB",
+        "description": "K TELECOMS",
+        "debit": 10,
+        "credit": null,
+        "balance": "1276.27"
+    },
+    {
+        "id": "3fea2436-b928-4933-8221-7b22ca691323",
+        "date": "05/03/2021",
+        "type": "DDX",
+        "description": "MIKE",
+        "debit": 200,
+        "credit": null,
+        "balance": "1286.27"
+    },
+    {
+        "id": "f08f49bf-28c9-4405-801a-883aadfbaf4e",
+        "date": "03/03/2021",
+        "type": "DEB",
+        "description": "STEAM",
+        "debit": 4.6,
+        "credit": null,
+        "balance": "1486.27"
+    },
+    {
+        "id": "d6447537-3493-454a-a34c-439397b1ec93",
+        "date": "02/03/2021",
+        "type": "FPI",
+        "description": "Cornor shop",
+        "debit": null,
+        "credit": 9.6,
+        "balance": "1490.87"
+    },
+    {
+        "id": "93ba2ed9-007a-482f-bad6-f21099e84f31",
+        "date": "01/03/2021",
+        "type": "FPI",
+        "description": "DIY STORE",
+        "debit": null,
+        "credit": 9.63,
+        "balance": "1481.27"
+    }
+]
